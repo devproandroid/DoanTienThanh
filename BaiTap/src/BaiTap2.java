@@ -31,6 +31,7 @@ public class BaiTap2{
 		// TODO Auto-generated method stub
 			System.out.println("Kết quả bài toán 2 là: ");
 			baitoan2();
+			
 	
 	}
 
